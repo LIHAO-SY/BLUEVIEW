@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BLUEVIEW</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">主页</string>
+    <string name="title_control">控制</string>
+    <string name="title_map">地图</string>
+    <string name="title_user">我的</string>
+</resources>
